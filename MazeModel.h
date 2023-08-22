@@ -1,10 +1,12 @@
 #ifndef MAZESOLVER_MAZEMODEL_H
 #define MAZESOLVER_MAZEMODEL_H
 
-
 #include "Player.h"
-#include "Vertex.h"
+
+class Vertex;
+
 #include "Edge.h"
+#include "Vertex.h"
 
 // Represents the maze world class
 class MazeWorld {
