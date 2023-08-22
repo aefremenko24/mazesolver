@@ -5,9 +5,6 @@
 #ifndef MAZESOLVER_EDGE_H
 #define MAZESOLVER_EDGE_H
 
-
-#include "Vertex.h"
-
 // Represents an edge
 struct Edge {
   Vertex* first;

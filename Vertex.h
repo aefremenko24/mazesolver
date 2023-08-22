@@ -6,7 +6,6 @@
 #define MAZESOLVER_VERTEX_H
 
 #include "Posn.h"
-#include "Edge.h"
 
 // Represents a vertex
 struct Vertex {
